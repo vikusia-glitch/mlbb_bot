@@ -3,7 +3,7 @@ import telebot
 import random
 import json
 from telebot.types import ReplyKeyboardMarkup, KeyboardButton
-
+#окак
 bot = telebot.TeleBot(token)
 
 with open('.venv/bin/tilt_vopros.json', 'r', encoding='utf-8') as f:
