@@ -1,0 +1,12 @@
+[
+  {"name": "Alucard", "role": "Fighter", "category": "Aggressive"},
+  {"name": "Miya", "role": "Marksman", "category": "Strategic"},
+  {"name": "Layla", "role": "Marksman", "category": "Strategic"},
+  {"name": "Zilong", "role": "Fighter", "category": "Aggressive"},
+  {"name": "Eudora", "role": "Mage", "category": "Strategic"},
+  {"name": "Fanny", "role": "Assassin", "category": "Aggressive"},
+  {"name": "Chou", "role": "Fighter", "category": "Aggressive"},
+  {"name": "Harith", "role": "Assassin", "category": "Aggressive"},
+  {"name": "Ling", "role": "Assassin", "category": "Aggressive"},
+  {"name": "Selena", "role": "Assassin", "category": "Aggressive"}
+]
